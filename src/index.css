@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --blue: #4878a6;
+  --dark-blue: #2a5275;
+  --red: #f15152;
+  --light-blue: #edf2f6;
+  --yellow: #fbb13c;
+  --divider: #c8cacb;
+  --menu-blue: #0e1821;
+  --card-border: #eaeaf0;
+  --light-yellow: #fff7e3;
+  --text---main: #070c11;
+  --text---grey: #838688;
+}
